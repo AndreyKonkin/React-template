@@ -1,7 +1,7 @@
 import React from 'react';
-import Navbar from './Ui/Navbar';
+import Navbar from './ui/Navbar';
 
-export default function App({ }) {
+export default function App() {
   return (
     <div className="container">
       <Navbar />
